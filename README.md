@@ -1,6 +1,6 @@
 ### Hi there 👋
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -20,15 +20,13 @@
 <br/>
 <br/>
 
----
+#
 
 ### 📊 Stats
 
 ![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=phil3197&hide=stars,issues&show_icons=true&theme=gruvbox)
 
-<br/>
-
----
+#
 
 <!--
 **phil3197/phil3197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
