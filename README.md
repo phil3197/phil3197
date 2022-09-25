@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi everyone 👋,
+
+I'm Philipp and I'm a Full Stack Senior Software Engineer from Germany. I've been working in the IT industry for over 7 years now, but I started programming at an early age when I was a teenager.
+
+I am currently working for a medium-sized IT service provider. Here I have already accompanied many projects in the SAP Commerce environment, most recently as a Lead Developer.
+
+But I also like to work on small projects in my free time.
+I often use small projects to educate myself and learn new things.
+As a software engineer, you should always be ready to learn new things.
 
 #
 
@@ -18,12 +26,6 @@
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br/>
-
-#
-
-### 📊 Stats
-
-![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=phil3197&hide=stars,issues&show_icons=true&theme=gruvbox)
 
 #
 
