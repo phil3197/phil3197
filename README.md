@@ -29,6 +29,12 @@ As a software engineer, you should always be ready to learn new things.
 
 #
 
+<details> <summary><h3>👨‍💻 Software Engineering Journey</h3></summary>
+...coming soon...
+</details>
+
+#
+
 <!--
 **phil3197/phil3197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
