@@ -1,6 +1,6 @@
 ### Hi everyone 👋,
 
-I'm Philipp and I'm a Full Stack Senior Software Engineer from Germany. I've been working in the IT industry for over 7 years now, but I started programming at an early age when I was a teenager.
+I'm Philipp and I'm a Full Stack Senior Software Engineer from Germany. I've been working in the IT industry for over 10 years now, but I started programming at an early age when I was a teenager.
 
 I am currently working for a medium-sized IT service provider. Here I have already accompanied many projects in the SAP Commerce environment, most recently as a Lead Developer.
 
